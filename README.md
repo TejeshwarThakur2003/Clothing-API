@@ -21,7 +21,7 @@ This is a **RESTful API** for managing clothing items, built with **Node.js, Exp
 ## 🔧 Setup & Installation
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/clothing-api.git
+   git clone https://github.com/TejeshwarThakur2003/Clothing-API/edit/main/README.md.git
    cd clothing-api
 
 2.Install Dependencies
